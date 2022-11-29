@@ -1,0 +1,13 @@
+.image{
+	height: 300px;
+	border-radius: 50px;
+	padding: 20px;
+}
+h1{
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-family: Tahoma;
+}
+.profile{
+	font-family: monospace;
+}
